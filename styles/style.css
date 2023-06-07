@@ -1,4 +1,4 @@
-body {
+body.page1 {
     background-color: yellow;
     background-image: url("../images/bg2.webp");
     background-repeat: no-repeat;
@@ -26,4 +26,12 @@ nav{
 
 li a{
     color: aquamarine
+}
+body.page2 {
+    background-color: yellow;
+    background-image: url("../images/bg3.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
