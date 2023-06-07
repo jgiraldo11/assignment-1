@@ -1,0 +1,29 @@
+body {
+    background-color: yellow;
+    background-image: url("../images/bg2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.main-container {
+    border: 2px solid rgb(248, 244, 244);
+    background-color: rgba(201, 184, 184, 0.579);
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+}   
+
+h3{
+    text-size-adjust: 14;
+}
+
+nav{
+    color: aquamarine;
+}
+
+li a{
+    color: aquamarine
+}
