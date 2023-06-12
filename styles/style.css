@@ -21,11 +21,11 @@ h3{
 }
 
 nav{
-    color: aquamarine;
+    color: rgb(235, 243, 240);
 }
 
 li a{
-    color: aquamarine
+    color: rgb(240, 236, 231)
 }
 body.page2 {
     background-color: yellow;
