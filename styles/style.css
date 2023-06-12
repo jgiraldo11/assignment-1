@@ -27,9 +27,28 @@ nav{
 li a{
     color: rgb(240, 236, 231)
 }
+
 body.page2 {
     background-color: yellow;
     background-image: url("../images/bg3.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+body.page3 {
+    background-color: yellow;
+    background-image: url("../images/bg4.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+body.page4 {
+    background-color: yellow;
+    background-image: url("../images/bg5.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
